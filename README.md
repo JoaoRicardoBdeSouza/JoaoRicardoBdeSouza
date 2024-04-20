@@ -4,3 +4,5 @@
 
  [<img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" width="48"/>](https://www.linkedin.com/in/joão-ricardo-956053305/)
  [<img src="https://img.icons8.com/color/96/000000/gmail.png" alt="Gmail" width="48"/>](mailto:joaoricardo.maringa@gmail.com)
+
+<h6 align="center">Essa página irá receber diversas atualizações de acordo com o avanço da minha habilidade em programar!.<br>
